@@ -20,7 +20,7 @@ It is the first step to become a Web Developer.
 - Lists
 - Tables
 - Forms
-- Multimedia (audio & video)
+- Multimedia 
 - Semantic HTML tags
 
 ---
