@@ -11,7 +11,7 @@ It is the first step to become a Web Developer.
 
 ---
 
-## 🧠 Topics Covered in this Repository Given below
+## 🧠 Topics Covered in this Repository 
 
 - HTML basic structure
 - Headings and paragraphs
