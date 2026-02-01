@@ -4,7 +4,7 @@ This repository contains **HTML notes and examples** for beginners who want to l
 
 ---
 
-## 📘 What is HTML 
+## 📘 What is HTML
 
 HTML (HyperText Markup Language) is used to create the **structure of web pages**.  
 It is the first step to become a Web Developer.
