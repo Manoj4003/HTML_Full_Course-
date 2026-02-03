@@ -1,4 +1,4 @@
-# HTML Course – Beginner Friendly Material
+# HTML Course – Beginner Friendly Material   
 
 This repository contains **HTML notes and examples** for beginners who want to learn **Web Development from scratch**.
 
